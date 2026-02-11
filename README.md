@@ -1,4 +1,4 @@
-# Online Trading Platform
+# TradeSphere - stock trading platform
 
 A full-stack online trading platform inspired by Zerodha Kite, built with React and Node.js. This platform provides a comprehensive trading dashboard with real-time stock tracking, order management, portfolio visualization, and user authentication.
 
